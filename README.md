@@ -1,6 +1,6 @@
 # tools
-some cool tools, in this repo, I will share some cool tools to help you work better.
+KMS script is not better, use as follows method will make sure success to install:
 
-## windows-active-tool
+## HWID
 
-if you are windows 11 pro version, you just run this bat script and the system will activated.
+[if you are windows 11 pro version, you just run this bat script and the system will activated.](https://massgrave.dev/hwid.html#Types_of_Tickets)https://massgrave.dev/hwid.html#Types_of_Tickets
